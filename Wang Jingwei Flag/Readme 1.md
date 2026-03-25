@@ -1,0 +1,35 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+=====================================================
+
+The person who associated a work with this deed has dedicated the work to the
+public domain by waiving all of his or her rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission. But it is appreciated, professional,
+and more educational if you give attribution. :)
+
+WORK DEDICATED TO PUBLIC DOMAIN:
+---------------------------------
+File:    Wang Jingwei.png
+Creator: anthemthings
+Year:    2025
+
+DESCRIPTION OF WORK:
+---------------------
+Flag of the Republic of China - Nanjing (Wang Jingwei Regime)
+(Peace, Anti-Communism, National Construction / 和平反共建國)
+Recreated and modified at 1920x1080 resolution using:
+  - Taiwan Flag (Public Domain, ROC Copyright Act Article 9)
+  - LXGW WenKai Mono TC (SIL Open Font License)
+  - Paint.NET (MIT License)
+
+NOTES:
+------
+This work is based entirely on Public Domain and openly licensed source
+materials. The creator waives all copyright and related rights to this
+work under CC0 1.0.
+
+For more information, see:
+https://creativecommons.org/publicdomain/zero/1.0/
