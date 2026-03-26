@@ -25,6 +25,23 @@ Recreated and modified at 1920x1080 resolution using:
   - LXGW WenKai Mono TC (SIL Open Font License)
   - Paint.NET (MIT License)
 
+EDUCATIONAL PURPOSE DISCLAIMER:
+--------------------------------
+This work is created and shared for historical, educational, and
+documentary purposes only.
+ 
+The Wang Jingwei regime (Republic of China - Nanjing, 1940-1945) was a
+Japanese-collaborationist government during World War II. This flag is a
+historically significant symbol of that period.
+ 
+The creator of this file:
+  - Does NOT endorse, glorify, or promote the Wang Jingwei regime
+  - Does NOT endorse collaboration with any occupying force
+  - Does NOT endorse any political ideology represented by this flag
+  - Created this file purely for historical documentation and education
+ 
+The creator is NOT responsible for any misuse of this file by others.
+
 NOTES:
 ------
 This work is based entirely on Public Domain and openly licensed source
